@@ -11,4 +11,5 @@ defaults:
       layout: default
 
 
+gems: ['kramdown']
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
